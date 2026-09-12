@@ -1,5 +1,7 @@
 # Hello, I'm cyberdiondre 👋
 
+<img src="https://raw.githubusercontent.com/diondre-sanchez/cyberdiondre/48714bc7b45e33a0b02630fad21e0e179b7803ce/Abstract_MentalState.png" alt="Abstract mental state artwork" width="600" />
+
 I build, break, and improve digital systems with a focus on automation, security, and thoughtful engineering.
 
 ## About me
