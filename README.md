@@ -29,10 +29,7 @@ I build, break, and improve digital systems with a focus on automation, security
 
 ## GitHub stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberdiondre&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberdiondre&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180" />
-</div>
+- In Progress
 
 ## Featured interests
 
