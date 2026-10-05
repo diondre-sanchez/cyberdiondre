@@ -42,7 +42,7 @@ I build, break, and improve digital systems with a focus on automation, security
 
 Open to collaboration, learning opportunities, and meaningful projects.
 
-- GitHub: [@cyberdiondre](https://github.com/cyberdiondre)
-- Email: cyberdiondre@example.com
+- GitHub: [@CyberDiondre](https://github.com/diondre-sanchez)
+- Email: cyberdiondre@gmail.com
 
 > “The best systems are built with intent, curiosity, and iteration.”
